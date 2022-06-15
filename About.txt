@@ -1,7 +1,8 @@
-This project is 
+This project is a front end form validation
 
-It uses 
+It uses HTML, CSS, and JavaScript
 
-It can be used as an example of 
+It can be used as an example of the fron end of a form with validation re required/ expected input
 
-- 
+
+** NOTE: there is no back-end connected to this and this is only front end validated without a DB connectec
